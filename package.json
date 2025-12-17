@@ -1,7 +1,7 @@
 {
   "name": "syncpack-issue",
   "devDependencies": {
-    "syncpack": "13.0.4"
+    "syncpack": "14.0.0-alpha.32"
   },
   "packageManager": "pnpm@10.26.0"
 }
